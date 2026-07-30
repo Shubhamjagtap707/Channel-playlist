@@ -1045,16 +1045,21 @@ https://ksr.indevs.in/m3u/?stream=475134
 #EXTINF:-1 tvg-id="475135" tvg-name="HUNGAMA TV | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71808.png" group-title="(KSR) HINDI | KIDS",HUNGAMA TV | IN
 https://ksr.indevs.in/m3u/?stream=475135
 
+#KODIPROP:inputstream.adaptive.license_key=688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226
+#EXT-X-KEY:METHOD=SAMPLE-AES,KEYID="688db477181f50fd981c94efda31d6b8",KEY="9572ab827846677bc7e84fbc53ccc226"
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="(KSR) HINDI | KIDS" keyid="688db477181f50fd981c94efda31d6b8" key="9572ab827846677bc7e84fbc53ccc226",Super Hungama
+https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226
 #EXTHTTP:{"cookie":"__hdnea__=st=1785408019~exp=1785429619~acl=/*~hmac=964915f9775f7e728874ec24963c0c742b555eb40af116d4f86a3ba99fa4513e"}
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="(JTV+) KIDS" keyid="688db477181f50fd981c94efda31d6b8" key="9572ab827846677bc7e84fbc53ccc226" license_key="688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226" license_type="clearkey",Super Hungama
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="(KSR) HINDI | KIDS" keyid="688db477181f50fd981c94efda31d6b8" key="9572ab827846677bc7e84fbc53ccc226" license_key="688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226" license_type="clearkey",Super Hungama
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @KSRIPTV - ExoPlayerLib/824.0
 https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226
-#EXTINF:-1 tvg-id="1392" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="Kids" keyid="688db477181f50fd981c94efda31d6b8" key="9572ab827846677bc7e84fbc53ccc226" license_key="688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226" license_type="org.w3.clearkey",Super Hungama
+#EXTINF:-1 tvg-id="1392" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="(KSR) HINDI | KIDS" keyid="688db477181f50fd981c94efda31d6b8" key="9572ab827846677bc7e84fbc53ccc226" license_key="688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226" license_type="org.w3.clearkey",Super Hungama
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd?__hdnea__=st=1785384039~exp=1785405639~acl=/*~hmac=9c36a12633b7dcd815c00b26a0ea08fb592392fd98d3b8204f84f94e846974cc
 
@@ -1063,7 +1068,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd?__hdn
 #KODIPROP:inputstream.adaptive.license_key=688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226
 #EXT-X-DRM-ID: 1392
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1392
-#EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="JioTv+ KIDS" keyid="688db477181f50fd981c94efda31d6b8" key="9572ab827846677bc7e84fbc53ccc226" license_key="688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226" license_type="clearkey",Super Hungama
+#EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="(KSR) HINDI | KIDS" keyid="688db477181f50fd981c94efda31d6b8" key="9572ab827846677bc7e84fbc53ccc226" license_key="688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226" license_type="clearkey",Super Hungama
 https://servertvhub.site/jiotv+/mpd.php?id=1392
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" group-title="(KSR) HINDI | KIDS",Nick HD+
