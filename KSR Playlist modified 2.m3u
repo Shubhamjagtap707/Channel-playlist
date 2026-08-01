@@ -48,6 +48,156 @@ https://sliv.tgaadi.workers.dev/ten4hd.m3u8
 https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 #EXTINF:-1 tvg-id="sonykal" tvg-name="Sony Kal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest?cb=20240615084342" group-title="SonyLIV PACKAGE",Sony Kal
 https://sliv.tgaadi.workers.dev/19833.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
+#EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/main/Customized_logos/zeetvhd.png" group-title="Z5 PACKAGE" keyid="65c3633157574361b191059e46e72968" key="78450b11381340c297d96c13183d3744" license_key="65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744" license_type="clearkey",Zee TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/main/Customized_logos/zeecinemahd.png" group-title="Z5 PACKAGE" keyid="f56beaac9f124616872c741c9ce4fa4e" key="5d40a903238f4ad98abbed1877d4e3d1" license_key="f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1" license_type="clearkey",Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+#EXTINF:-1 tvg-name="& Pictures HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/main/Customized_logos/andpictureshd.png" group-title="Z5 PACKAGE" keyid="de8045e9f0fb4d03845dcc4a8bd7712a" key="6807bd09bda34ada83152908192af6d6" license_key="de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6" license_type="clearkey",& Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
+#EXTINF:-1 tvg-name="& TV HD" tvg-logo="https://i.postimg.cc/6q7c8GQj/&_Pictures_HD.png" group-title="Z5 PACKAGE" keyid="67d18634ccb04875875c60fb8d9caaba" key="99a66471c09e4b8a8dc39a0de6803f75" license_key="67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75" license_type="clearkey",& TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
+#EXTINF:-1 tvg-name="Zee TV SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-title="Z5 PACKAGE" keyid="ed068cf84f0640ccbc7c0e395c0a272e" key="bb722190f2bb446391020411a7d0828b" license_key="ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b" license_type="clearkey",Zee TV SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
+#EXTINF:-1 tvg-name="And TV SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Z5 PACKAGE" keyid="26df86eeebb04d7fbc45c948f76e81fd" key="5f3a23f1a73c4c96ababce5fffe7b06b" license_key="26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b" license_type="clearkey",And TV SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
+#EXTINF:-1 tvg-name="And Pictures SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="Z5 PACKAGE" keyid="8dea532cabfe4f71ba20f62310e7949f" key="7a214a974e4f4d1d9bb66364d5f0cb92" license_key="8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92" license_type="clearkey",And Pictures SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
+#EXTINF:-1 tvg-name="Zee Cinema SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="Z5 PACKAGE" keyid="43513b13f4b542e39c9265921dfc1726" key="b0b2678bcd274c37b888a6c987d502ed" license_key="43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed" license_type="clearkey",Zee Cinema SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
+#EXTINF:-1 tvg-name="Zee Anmol" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="Z5 PACKAGE" keyid="4023613457774cbeb71a62c339970e63" key="1c3e9fce5f014542be9cd1f749181204" license_key="4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204" license_type="clearkey",Zee Anmol
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
+#EXTINF:-1 tvg-name="Zee Anoml Cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="Z5 PACKAGE" keyid="812411cba8bc42c79eb2b19cd78ad3f3" key="468a0b8d3d5d42d8a5c41bb875390a74" license_key="812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74" license_type="clearkey",Zee Anoml Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png" group-title="Z5 PACKAGE" keyid="601f58d4b7094d2baf78c85d1d9cb6c9" key="609e0cc03198455fa36fd2cc3e7f940d" license_key="601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d" license_type="clearkey",Discovery Kids
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7
+#EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Z5 PACKAGE" keyid="9d7a1917ee3244d198193cdd1ff1feae" key="3c3e8d0259f748f1830f713a769760e7" license_key="9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7" license_type="clearkey",Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
+#EXTINF:-1 tvg-name="Discovey SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="Z5 PACKAGE" keyid="b70a8cf9450c4d6484b4ac4d3c6761c0" key="0908be844260409cbac180bf0181da40" license_key="b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40" license_type="clearkey",Discovey SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png" group-title="Z5 PACKAGE" keyid="e48e7373d6be47ecab83a20849f6823e" key="513ce07a2ee24ffdbe667eff5a9d46a8" license_key="e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8" license_type="clearkey",TLC
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+#EXTINF:-1 tvg-name="English & Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Z5 PACKAGE" keyid="9872e439f21f4a299cab249c6554daa3" key="0cdfcfe0d0f1fbe100554ce3ef4c4665" license_key="9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665" license_type="clearkey",English & Flix SD
+https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b
+#EXTINF:-1 tvg-name="Zee Bihar Jharkhand" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png" group-title="Z5 PACKAGE" keyid="e1ec6098b5014ac7aae0b37f72d5e85e" key="c04950f25d8e4107a96e828e7911e53b" license_key="e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b" license_type="clearkey",Zee Bihar Jharkhand
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
+#EXTINF:-1 tvg-name="Zee Bollywood" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="Z5 PACKAGE" keyid="e61523260c614746b25b9a5523fe9a39" key="72ddbf37f76f49acbb8e140e7279e7a1" license_key="e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1" license_type="clearkey",Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bef87892e58c446d893b16a848703b70:51959fcbc8fe4091b570ba254bf749ae
+#EXTINF:-1 tvg-name="Zee Business" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-title="Z5 PACKAGE" keyid="bef87892e58c446d893b16a848703b70" key="51959fcbc8fe4091b570ba254bf749ae" license_key="bef87892e58c446d893b16a848703b70:51959fcbc8fe4091b570ba254bf749ae" license_type="clearkey",Zee Business
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10616d7c4bee41f1825bd805c6295172:dc85f2112f63477fb39fc149493c49be
+#EXTINF:-1 tvg-name="Zee Hindustan" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" group-title="Z5 PACKAGE" keyid="10616d7c4bee41f1825bd805c6295172" key="dc85f2112f63477fb39fc149493c49be" license_key="10616d7c4bee41f1825bd805c6295172:dc85f2112f63477fb39fc149493c49be" license_type="clearkey",Zee Hindustan
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
+#EXTINF:-1 tvg-name="Discovery Investigation" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png" group-title="Z5 PACKAGE" keyid="2828ea6f6a984505b0454da0c03f68b9" key="5d3b7195086544c2807aa8c1544e7379" license_key="2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379" license_type="clearkey",Discovery Investigation
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png" group-title="Z5 PACKAGE" keyid="5458f45efedb4d6f8aa6ac76c85b621b" key="dbf8a0a306a64525ba3012fd225370c0" license_key="5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0" license_type="clearkey",Discovery Science
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-title="Z5 PACKAGE" keyid="c011525969e44b99a86059dbb3cdf4e8" key="6700a5d93203417b8585f7de7dd1a09b" license_key="c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b" license_type="clearkey",Discovery Turbo
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e
+#EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" group-title="Z5 PACKAGE" keyid="f081f32756374c3d8265e1a1e029614e" key="356a3a6d8ce34d49a84ad464b20b1a3e" license_key="f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e" license_type="clearkey",Zee Talkies
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a457a6a58184234ba9bfa6916ce8013:ef3dd80894774430a33ecbc9108e91d7
+#EXTINF:-1 tvg-name="MTV Beats" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MJZdklJi.png" group-title="Z5 PACKAGE" keyid="2a457a6a58184234ba9bfa6916ce8013" key="ef3dd80894774430a33ecbc9108e91d7" license_key="2a457a6a58184234ba9bfa6916ce8013:ef3dd80894774430a33ecbc9108e91d7" license_type="clearkey",MTV Beats
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
+#EXTINF:-1 tvg-name="Shorts Tv Active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Z5 PACKAGE" keyid="b994480f788d41ddbc805862ac469416" key="78a6a0fc1758483595da7113e58e4467" license_key="b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467" license_type="clearkey",Shorts Tv Active
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
+#EXTINF:-1 tvg-name="Korean Drama Active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Z5 PACKAGE" keyid="ed197e7253c04946903f03bad9afac91" key="99ebb8683ea74b70a9fda1cbdc2cc1b4" license_key="ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4" license_type="clearkey",Korean Drama Active
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
+#EXTINF:-1 tvg-name="Zing" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="Z5 PACKAGE" keyid="f0fb14eebe474a6ab74c8301d55a7224" key="f9f8b2e30704458b8db844a285ce32be" license_key="f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be" license_type="clearkey",Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d78c01625c3f4ed98912609799298544:b91bb882f9624872ada6125006fe5c73
+#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png" group-title="Z5 PACKAGE" keyid="d78c01625c3f4ed98912609799298544" key="b91bb882f9624872ada6125006fe5c73" license_key="d78c01625c3f4ed98912609799298544:b91bb882f9624872ada6125006fe5c73" license_type="clearkey",NDTV India
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecad0b097b574078a4a1bde24bfdb2e5:568bb13d04db4b738864f6c849474cd5
+#EXTINF:-1 tvg-name="Zee Sarthak" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" group-title="Z5 PACKAGE" keyid="ecad0b097b574078a4a1bde24bfdb2e5" key="568bb13d04db4b738864f6c849474cd5" license_key="ecad0b097b574078a4a1bde24bfdb2e5:568bb13d04db4b738864f6c849474cd5" license_type="clearkey",Zee Sarthak
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
+#EXTINF:-1 tvg-name="Zoom" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="Z5 PACKAGE" keyid="86edec9e3b7d4042a4d4a1ca14f847ee" key="9def4315f0004019a3705bcb3cf30ca3" license_key="86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3" license_type="clearkey",Zoom
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50e714b65ead453cbfab9b20bed5c79d:bc08e108b9ee4f65b99cb9dad9532f3f
+#EXTINF:-1 tvg-name="Zee Kannada SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1PrOGXAh.png" group-title="Z5 PACKAGE" keyid="50e714b65ead453cbfab9b20bed5c79d" key="bc08e108b9ee4f65b99cb9dad9532f3f" license_key="50e714b65ead453cbfab9b20bed5c79d:bc08e108b9ee4f65b99cb9dad9532f3f" license_type="clearkey",Zee Kannada SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
+#EXTINF:-1 tvg-name="Zee Telugu SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="Z5 PACKAGE" keyid="1ce5cd75a6ad44a38a7d1b8dbaf9c330" key="657fc8e7d533456cb0644fe03458a4b2" license_key="1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2" license_type="clearkey",Zee Telugu SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
+#EXTINF:-1 tvg-name="Zee Tamil SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Z5 PACKAGE" keyid="0d4e3e7dac2d58b93bf819a72fe8d510" key="667a33f4d5bb3587f2d5209886839eac" license_key="0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac" license_type="clearkey",Zee Tamil SD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+#EXTINF:-1 tvg-name="Zee Bangala SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Z5 PACKAGE" keyid="1df83e058b864da896c9288eef63b113" key="fc32f26239054b56aab48225305598fe" license_key="1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe" license_type="clearkey",Zee Bangala SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
+#EXTINF:-1 tvg-name="Zee Bangala Cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png" group-title="Z5 PACKAGE" keyid="fbbfd9ce4bbe4d818b16df7dfe89f05b" key="1e96d0f88ef740e982d6f6105721c8bc" license_key="fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc" license_type="clearkey",Zee Bangala Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a8d6c938ea647248f7a10eedc39f097:7d81feb84ed84bd88fdc5ca9de3c16da
+#EXTINF:-1 tvg-name="Zee Marathi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" group-title="Z5 PACKAGE" keyid="2a8d6c938ea647248f7a10eedc39f097" key="7d81feb84ed84bd88fdc5ca9de3c16da" license_key="2a8d6c938ea647248f7a10eedc39f097:7d81feb84ed84bd88fdc5ca9de3c16da" license_type="clearkey",Zee Marathi
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
+
+
+
 #EXTINF:-1 tvg-id="3235" tvg-name="AAJ TAK" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3235.png" group-title="(KSR) HINDI | NEWS",AAJ TAK
 https://ksr.indevs.in/m3u/?stream=3235
 #EXTINF:-1 tvg-id="3236" tvg-name="AAJ TAK.." tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3236.png" group-title="(KSR) HINDI | NEWS",AAJ TAK..
@@ -1030,38 +1180,98 @@ https://ksr.indevs.in/m3u/?stream=4891
 https://ksr.indevs.in/m3u/?stream=4900
 #EXTINF:-1 tvg-id="4889" tvg-name="ACTOR | SHAKTI KAPOOR (4K)" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/4889.jpeg" group-title="(KSR) HINDI | 24x7 ACTORS",ACTOR | SHAKTI KAPOOR (4K)
 https://ksr.indevs.in/m3u/?stream=4889
-#EXTINF:-1 tvg-id="475130" tvg-name="CARTOON NETWORK FHD | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71803.jpeg" group-title="(KSR) HINDI | KIDS",CARTOON NETWORK FHD | IN
+
+
+
+#EXTINF:-1 tvg-id="475130" tvg-name="CARTOON NETWORK HD+ | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71803.jpeg" group-title="(KSR) HINDI | KIDS",CARTOON NETWORK FHD | IN
 https://ksr.indevs.in/m3u/?stream=475130
-#EXTINF:-1 tvg-name="Cartoon Network (Hindi)" tvg-logo="https://jacreation.com/kids/cn.png" group-title="(KSR) HINDI | KIDS",Cartoon Network (Hindi)
+
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d03062a210e5ca5bebe18295a7ed53f:2d5145403548d142cbe2a5f1e25b0d1f
+#EXT-X-DRM-ID: 3436
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3436
+#EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHDHindi.png" group-title="(KSR) HINDI | KIDS" keyid="6d03062a210e5ca5bebe18295a7ed53f" key="2d5145403548d142cbe2a5f1e25b0d1f" license_key="6d03062a210e5ca5bebe18295a7ed53f:2d5145403548d142cbe2a5f1e25b0d1f" license_type="clearkey",Cartoon Network HD+ Hindi
+https://servertvhub.site/jiotv+/mpd.php?id=3436
+
+
+#EXTINF:-1 tvg-name="Cartoon Network Hindi" tvg-logo="https://jacreation.com/kids/cn.png" group-title="(KSR) HINDI | KIDS",Cartoon Network (Hindi)
 http://ksrtech.fun/xtra.php/158773.ts
+
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfdcfe466f865e51ac6b9345a03478fc:4cfddb414841586f0f992f2810ec2931
+#EXT-X-DRM-ID: 816
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=816
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHindi.png" group-title="(KSR) HINDI | KIDS" keyid="dfdcfe466f865e51ac6b9345a03478fc" key="4cfddb414841586f0f992f2810ec2931" license_key="dfdcfe466f865e51ac6b9345a03478fc:4cfddb414841586f0f992f2810ec2931" license_type="clearkey",Cartoon Network Hindi
+https://servertvhub.site/jiotv+/mpd.php?id=816
+
+
 #EXTINF:-1 tvg-id="475132" tvg-name="DISCOVERY KIDS | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71805.png" group-title="(KSR) HINDI | KIDS",DISCOVERY KIDS | IN
 https://ksr.indevs.in/m3u/?stream=475132
+
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=001a44205b2158be9db4bca1636ae5ac:9d1bddb7d66d4a73801abde7bc460a89
+#EXT-X-DRM-ID: 554
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=554
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" group-title="JioTv+ KIDS" keyid="001a44205b2158be9db4bca1636ae5ac" key="9d1bddb7d66d4a73801abde7bc460a89" license_key="001a44205b2158be9db4bca1636ae5ac:9d1bddb7d66d4a73801abde7bc460a89" license_type="clearkey",Discovery Kids Hindi
+https://servertvhub.site/jiotv+/mpd.php?id=554
+
+
+
 #EXTINF:-1 tvg-id="6106" tvg-name="SONY YAY HINDI" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6106.jpeg" group-title="(KSR) HINDI | KIDS",SONY YAY HINDI
 https://ksr.indevs.in/m3u/?stream=6106
+
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=271a8e6c5d9d5696a11c474a5c18371c:d6e2ece0c28b900dc6a868991cdf2517
+#EXT-X-DRM-ID: 872
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=872
+#EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png" group-title="(KSR) HINDI | KIDS" keyid="271a8e6c5d9d5696a11c474a5c18371c" key="d6e2ece0c28b900dc6a868991cdf2517" license_key="271a8e6c5d9d5696a11c474a5c18371c:d6e2ece0c28b900dc6a868991cdf2517" license_type="clearkey",Sony Yay Hindi
+https://servertvhub.site/jiotv+/mpd.php?id=872
+
+
+
 #EXTINF:-1 tvg-name="Disney TV" tvg-logo="https://comet-media-nettv.dinesh29.com.np/smart/ardinesh/logos/disney-channel.jpg" group-title="(KSR) HINDI | KIDS",Disney TV
 http://ksrtech.fun/xtra.php/92418.ts
+
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400d0f354dca5d44a540cd80db766f4c:22da170bb5ae36ef5cab42b3842658d8
+#EXT-X-DRM-ID: 1373
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1373
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="(KSR) HINDI | KIDS" keyid="400d0f354dca5d44a540cd80db766f4c" key="22da170bb5ae36ef5cab42b3842658d8" license_key="400d0f354dca5d44a540cd80db766f4c:22da170bb5ae36ef5cab42b3842658d8" license_type="clearkey",Disney Channel
+https://servertvhub.site/jiotv+/mpd.php?id=1373
+
+
 #EXTINF:-1 tvg-id="475134" tvg-name="DISNEY TV HD | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71807.jpeg" group-title="(KSR) HINDI | KIDS",DISNEY TV HD | IN
 https://ksr.indevs.in/m3u/?stream=475134
+
 #EXTINF:-1 tvg-id="475135" tvg-name="HUNGAMA TV | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71808.png" group-title="(KSR) HINDI | KIDS",HUNGAMA TV | IN
 https://ksr.indevs.in/m3u/?stream=475135
 
-#KODIPROP:inputstream.adaptive.license_key=688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226
-#EXT-X-KEY:METHOD=SAMPLE-AES,KEYID="688db477181f50fd981c94efda31d6b8",KEY="9572ab827846677bc7e84fbc53ccc226"
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="(KSR) HINDI | KIDS" keyid="688db477181f50fd981c94efda31d6b8" key="9572ab827846677bc7e84fbc53ccc226",Super Hungama
-https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd
 
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226
-#EXTHTTP:{"cookie":"__hdnea__=st=1785408019~exp=1785429619~acl=/*~hmac=964915f9775f7e728874ec24963c0c742b555eb40af116d4f86a3ba99fa4513e"}
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="(KSR) HINDI | KIDS" keyid="688db477181f50fd981c94efda31d6b8" key="9572ab827846677bc7e84fbc53ccc226" license_key="688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226" license_type="clearkey",Super Hungama
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @KSRIPTV - ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=a24c34e396d75a18bce46aa471f1e164:b2b0db9965848d72fc3c13bf09724e83
+#EXT-X-DRM-ID: 1391
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1391
+#EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="(KSR) HINDI | KIDS" keyid="a24c34e396d75a18bce46aa471f1e164" key="b2b0db9965848d72fc3c13bf09724e83" license_key="a24c34e396d75a18bce46aa471f1e164:b2b0db9965848d72fc3c13bf09724e83" license_type="clearkey",Hungama
+https://servertvhub.site/jiotv+/mpd.php?id=1391
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226
-#EXTINF:-1 tvg-id="1392" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="(KSR) HINDI | KIDS" keyid="688db477181f50fd981c94efda31d6b8" key="9572ab827846677bc7e84fbc53ccc226" license_key="688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226" license_type="org.w3.clearkey",Super Hungama
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd?__hdnea__=st=1785384039~exp=1785405639~acl=/*~hmac=9c36a12633b7dcd815c00b26a0ea08fb592392fd98d3b8204f84f94e846974cc
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1075,12 +1285,48 @@ https://servertvhub.site/jiotv+/mpd.php?id=1392
 http://ksrtech.fun/xtra.php/92409.ts
 #EXTINF:-1 tvg-id="475136" tvg-name="NICK | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71809.jpg" group-title="(KSR) HINDI | KIDS",NICK | IN
 https://ksr.indevs.in/m3u/?stream=475136
+
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2adcfad63a35590b854ad5f2a0196da:c33d877834cab56aefcee23b05430b2e
+#EXT-X-DRM-ID: 545
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=545
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="(KSR) HINDI | KIDS" keyid="c2adcfad63a35590b854ad5f2a0196da" key="c33d877834cab56aefcee23b05430b2e" license_key="c2adcfad63a35590b854ad5f2a0196da:c33d877834cab56aefcee23b05430b2e" license_type="clearkey",Nick Hindi
+https://servertvhub.site/jiotv+/mpd.php?id=545
+
+
 #EXTINF:-1 tvg-id="475137" tvg-name="POGO | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71810.png" group-title="(KSR) HINDI | KIDS",POGO | IN
 https://ksr.indevs.in/m3u/?stream=475137
+
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d19984624fc15209b3cb5cf3bf99232f:baca6aa9494ed43cf02975eda742eeab
+#EXT-X-DRM-ID: 559
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=559
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="(KSR) HINDI | KIDS" keyid="d19984624fc15209b3cb5cf3bf99232f" key="baca6aa9494ed43cf02975eda742eeab" license_key="d19984624fc15209b3cb5cf3bf99232f:baca6aa9494ed43cf02975eda742eeab" license_type="clearkey",Pogo Hindi
+https://servertvhub.site/jiotv+/mpd.php?id=559
+
+
 #EXTINF:-1 tvg-id="475138" tvg-name="SONIC | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71811.png" group-title="(KSR) HINDI | KIDS",SONIC | IN
 https://ksr.indevs.in/m3u/?stream=475138
 #EXTINF:-1 tvg-name="Sonic BK" tvg-logo="https://img-cdn.curl.pk/channels_icon/76823199191.png" group-title="(KSR) HINDI | KIDS",Sonic BK
 http://ksrtech.fun/xtra.php/92412.ts
+
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14af5805a98f52bdb1001f47ee99a211:fd7eb438ff90f8412832e230dd8db804
+#EXT-X-DRM-ID: 815
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=815
+#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="(KSR) HINDI | KIDS" keyid="14af5805a98f52bdb1001f47ee99a211" key="fd7eb438ff90f8412832e230dd8db804" license_key="14af5805a98f52bdb1001f47ee99a211:fd7eb438ff90f8412832e230dd8db804" license_type="clearkey",Sonic Hindi
+https://servertvhub.site/jiotv+/mpd.php?id=815
+
+
 #EXTINF:-1 tvg-id="475133" tvg-name="DISNEY JUNIOR | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71806.jpeg" group-title="(KSR) HINDI | KIDS",DISNEY JUNIOR | IN
 https://ksr.indevs.in/m3u/?stream=475133
 #EXTINF:-1 tvg-id="476786" tvg-name="NICK JR | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/73499.png" group-title="(KSR) HINDI | KIDS",NICK JR | IN
@@ -1489,150 +1735,7 @@ https://ksr.indevs.in/m3u/?stream=477934
 https://ksr.indevs.in/m3u/?stream=477935
 #EXTINF:-1 tvg-id="477936" tvg-name="TNT SPORT 3" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/74308.png" group-title="(KSR) SPORTS | CRICKET",TNT SPORT 3
 https://ksr.indevs.in/m3u/?stream=477936
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
-#EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/main/Customized_logos/zeetvhd.png" group-title="Z5 PACKAGE" keyid="65c3633157574361b191059e46e72968" key="78450b11381340c297d96c13183d3744" license_key="65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744" license_type="clearkey",Zee TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
-#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/main/Customized_logos/zeecinemahd.png" group-title="Z5 PACKAGE" keyid="f56beaac9f124616872c741c9ce4fa4e" key="5d40a903238f4ad98abbed1877d4e3d1" license_key="f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1" license_type="clearkey",Zee Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
-#EXTINF:-1 tvg-name="& Pictures HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/main/Customized_logos/andpictureshd.png" group-title="Z5 PACKAGE" keyid="de8045e9f0fb4d03845dcc4a8bd7712a" key="6807bd09bda34ada83152908192af6d6" license_key="de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6" license_type="clearkey",& Pictures HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
-#EXTINF:-1 tvg-name="& TV HD" tvg-logo="https://i.postimg.cc/6q7c8GQj/&_Pictures_HD.png" group-title="Z5 PACKAGE" keyid="67d18634ccb04875875c60fb8d9caaba" key="99a66471c09e4b8a8dc39a0de6803f75" license_key="67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75" license_type="clearkey",& TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
-#EXTINF:-1 tvg-name="Zee TV SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-title="Z5 PACKAGE" keyid="ed068cf84f0640ccbc7c0e395c0a272e" key="bb722190f2bb446391020411a7d0828b" license_key="ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b" license_type="clearkey",Zee TV SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
-#EXTINF:-1 tvg-name="And TV SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Z5 PACKAGE" keyid="26df86eeebb04d7fbc45c948f76e81fd" key="5f3a23f1a73c4c96ababce5fffe7b06b" license_key="26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b" license_type="clearkey",And TV SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
-#EXTINF:-1 tvg-name="And Pictures SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="Z5 PACKAGE" keyid="8dea532cabfe4f71ba20f62310e7949f" key="7a214a974e4f4d1d9bb66364d5f0cb92" license_key="8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92" license_type="clearkey",And Pictures SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-#EXTINF:-1 tvg-name="Zee Cinema SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="Z5 PACKAGE" keyid="43513b13f4b542e39c9265921dfc1726" key="b0b2678bcd274c37b888a6c987d502ed" license_key="43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed" license_type="clearkey",Zee Cinema SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
-#EXTINF:-1 tvg-name="Zee Anmol" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="Z5 PACKAGE" keyid="4023613457774cbeb71a62c339970e63" key="1c3e9fce5f014542be9cd1f749181204" license_key="4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204" license_type="clearkey",Zee Anmol
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
-#EXTINF:-1 tvg-name="Zee Anoml Cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="Z5 PACKAGE" keyid="812411cba8bc42c79eb2b19cd78ad3f3" key="468a0b8d3d5d42d8a5c41bb875390a74" license_key="812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74" license_type="clearkey",Zee Anoml Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
-#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png" group-title="Z5 PACKAGE" keyid="601f58d4b7094d2baf78c85d1d9cb6c9" key="609e0cc03198455fa36fd2cc3e7f940d" license_key="601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d" license_type="clearkey",Discovery Kids
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7
-#EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Z5 PACKAGE" keyid="9d7a1917ee3244d198193cdd1ff1feae" key="3c3e8d0259f748f1830f713a769760e7" license_key="9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7" license_type="clearkey",Zee Action
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
-#EXTINF:-1 tvg-name="Discovey SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="Z5 PACKAGE" keyid="b70a8cf9450c4d6484b4ac4d3c6761c0" key="0908be844260409cbac180bf0181da40" license_key="b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40" license_type="clearkey",Discovey SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png" group-title="Z5 PACKAGE" keyid="e48e7373d6be47ecab83a20849f6823e" key="513ce07a2ee24ffdbe667eff5a9d46a8" license_key="e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8" license_type="clearkey",TLC
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-#EXTINF:-1 tvg-name="English & Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Z5 PACKAGE" keyid="9872e439f21f4a299cab249c6554daa3" key="0cdfcfe0d0f1fbe100554ce3ef4c4665" license_key="9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665" license_type="clearkey",English & Flix SD
-https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b
-#EXTINF:-1 tvg-name="Zee Bihar Jharkhand" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png" group-title="Z5 PACKAGE" keyid="e1ec6098b5014ac7aae0b37f72d5e85e" key="c04950f25d8e4107a96e828e7911e53b" license_key="e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b" license_type="clearkey",Zee Bihar Jharkhand
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
-#EXTINF:-1 tvg-name="Zee Bollywood" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="Z5 PACKAGE" keyid="e61523260c614746b25b9a5523fe9a39" key="72ddbf37f76f49acbb8e140e7279e7a1" license_key="e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1" license_type="clearkey",Zee Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bef87892e58c446d893b16a848703b70:51959fcbc8fe4091b570ba254bf749ae
-#EXTINF:-1 tvg-name="Zee Business" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-title="Z5 PACKAGE" keyid="bef87892e58c446d893b16a848703b70" key="51959fcbc8fe4091b570ba254bf749ae" license_key="bef87892e58c446d893b16a848703b70:51959fcbc8fe4091b570ba254bf749ae" license_type="clearkey",Zee Business
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10616d7c4bee41f1825bd805c6295172:dc85f2112f63477fb39fc149493c49be
-#EXTINF:-1 tvg-name="Zee Hindustan" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" group-title="Z5 PACKAGE" keyid="10616d7c4bee41f1825bd805c6295172" key="dc85f2112f63477fb39fc149493c49be" license_key="10616d7c4bee41f1825bd805c6295172:dc85f2112f63477fb39fc149493c49be" license_type="clearkey",Zee Hindustan
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
-#EXTINF:-1 tvg-name="Discovery Investigation" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png" group-title="Z5 PACKAGE" keyid="2828ea6f6a984505b0454da0c03f68b9" key="5d3b7195086544c2807aa8c1544e7379" license_key="2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379" license_type="clearkey",Discovery Investigation
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
-#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png" group-title="Z5 PACKAGE" keyid="5458f45efedb4d6f8aa6ac76c85b621b" key="dbf8a0a306a64525ba3012fd225370c0" license_key="5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0" license_type="clearkey",Discovery Science
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
-#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-title="Z5 PACKAGE" keyid="c011525969e44b99a86059dbb3cdf4e8" key="6700a5d93203417b8585f7de7dd1a09b" license_key="c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b" license_type="clearkey",Discovery Turbo
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e
-#EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" group-title="Z5 PACKAGE" keyid="f081f32756374c3d8265e1a1e029614e" key="356a3a6d8ce34d49a84ad464b20b1a3e" license_key="f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e" license_type="clearkey",Zee Talkies
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a457a6a58184234ba9bfa6916ce8013:ef3dd80894774430a33ecbc9108e91d7
-#EXTINF:-1 tvg-name="MTV Beats" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MJZdklJi.png" group-title="Z5 PACKAGE" keyid="2a457a6a58184234ba9bfa6916ce8013" key="ef3dd80894774430a33ecbc9108e91d7" license_key="2a457a6a58184234ba9bfa6916ce8013:ef3dd80894774430a33ecbc9108e91d7" license_type="clearkey",MTV Beats
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
-#EXTINF:-1 tvg-name="Shorts Tv Active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Z5 PACKAGE" keyid="b994480f788d41ddbc805862ac469416" key="78a6a0fc1758483595da7113e58e4467" license_key="b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467" license_type="clearkey",Shorts Tv Active
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
-#EXTINF:-1 tvg-name="Korean Drama Active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Z5 PACKAGE" keyid="ed197e7253c04946903f03bad9afac91" key="99ebb8683ea74b70a9fda1cbdc2cc1b4" license_key="ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4" license_type="clearkey",Korean Drama Active
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
-#EXTINF:-1 tvg-name="Zing" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="Z5 PACKAGE" keyid="f0fb14eebe474a6ab74c8301d55a7224" key="f9f8b2e30704458b8db844a285ce32be" license_key="f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be" license_type="clearkey",Zing
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d78c01625c3f4ed98912609799298544:b91bb882f9624872ada6125006fe5c73
-#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png" group-title="Z5 PACKAGE" keyid="d78c01625c3f4ed98912609799298544" key="b91bb882f9624872ada6125006fe5c73" license_key="d78c01625c3f4ed98912609799298544:b91bb882f9624872ada6125006fe5c73" license_type="clearkey",NDTV India
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecad0b097b574078a4a1bde24bfdb2e5:568bb13d04db4b738864f6c849474cd5
-#EXTINF:-1 tvg-name="Zee Sarthak" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" group-title="Z5 PACKAGE" keyid="ecad0b097b574078a4a1bde24bfdb2e5" key="568bb13d04db4b738864f6c849474cd5" license_key="ecad0b097b574078a4a1bde24bfdb2e5:568bb13d04db4b738864f6c849474cd5" license_type="clearkey",Zee Sarthak
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
-#EXTINF:-1 tvg-name="Zoom" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="Z5 PACKAGE" keyid="86edec9e3b7d4042a4d4a1ca14f847ee" key="9def4315f0004019a3705bcb3cf30ca3" license_key="86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3" license_type="clearkey",Zoom
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50e714b65ead453cbfab9b20bed5c79d:bc08e108b9ee4f65b99cb9dad9532f3f
-#EXTINF:-1 tvg-name="Zee Kannada SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1PrOGXAh.png" group-title="Z5 PACKAGE" keyid="50e714b65ead453cbfab9b20bed5c79d" key="bc08e108b9ee4f65b99cb9dad9532f3f" license_key="50e714b65ead453cbfab9b20bed5c79d:bc08e108b9ee4f65b99cb9dad9532f3f" license_type="clearkey",Zee Kannada SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
-#EXTINF:-1 tvg-name="Zee Telugu SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="Z5 PACKAGE" keyid="1ce5cd75a6ad44a38a7d1b8dbaf9c330" key="657fc8e7d533456cb0644fe03458a4b2" license_key="1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2" license_type="clearkey",Zee Telugu SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
-#EXTINF:-1 tvg-name="Zee Tamil SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Z5 PACKAGE" keyid="0d4e3e7dac2d58b93bf819a72fe8d510" key="667a33f4d5bb3587f2d5209886839eac" license_key="0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac" license_type="clearkey",Zee Tamil SD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-#EXTINF:-1 tvg-name="Zee Bangala SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Z5 PACKAGE" keyid="1df83e058b864da896c9288eef63b113" key="fc32f26239054b56aab48225305598fe" license_key="1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe" license_type="clearkey",Zee Bangala SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
-#EXTINF:-1 tvg-name="Zee Bangala Cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png" group-title="Z5 PACKAGE" keyid="fbbfd9ce4bbe4d818b16df7dfe89f05b" key="1e96d0f88ef740e982d6f6105721c8bc" license_key="fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc" license_type="clearkey",Zee Bangala Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a8d6c938ea647248f7a10eedc39f097:7d81feb84ed84bd88fdc5ca9de3c16da
-#EXTINF:-1 tvg-name="Zee Marathi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" group-title="Z5 PACKAGE" keyid="2a8d6c938ea647248f7a10eedc39f097" key="7d81feb84ed84bd88fdc5ca9de3c16da" license_key="2a8d6c938ea647248f7a10eedc39f097:7d81feb84ed84bd88fdc5ca9de3c16da" license_type="clearkey",Zee Marathi
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="LG TV",Zee Dil Se
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="LG TV",Zee Comedy Nation
