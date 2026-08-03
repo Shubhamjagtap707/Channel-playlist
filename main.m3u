@@ -204,198 +204,69 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39b5c756c18355d9978fe6c6311b4891:3aaa7efc64f9b81b91512d1af2c56e3c
-#EXT-X-DRM-ID: 156
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=156
 #EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="STAR Package" keyid="39b5c756c18355d9978fe6c6311b4891" key="3aaa7efc64f9b81b91512d1af2c56e3c" license_key="39b5c756c18355d9978fe6c6311b4891:3aaa7efc64f9b81b91512d1af2c56e3c" license_type="clearkey",Star Gold HD
-https://servertvhub.site/jiotv+/mpd.php?id=156
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
-#EXT-X-DRM-ID: 3096
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3096
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="STAR Package" keyid="e6afa4754bc15dd28ab6806f417d319d" key="6a74ef2884813547109ee96098610387" license_key="e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387" license_type="clearkey",Star Gold 2 HD
-https://servertvhub.site/jiotv+/mpd.php?id=3096
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfdc17b8d45d5e199db366e26e931119:bb42ae3bb74b9172e79e986b59d40085
-#EXT-X-DRM-ID: 3097
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3097
-#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="STAR Package" keyid="cfdc17b8d45d5e199db366e26e931119" key="bb42ae3bb74b9172e79e986b59d40085" license_key="cfdc17b8d45d5e199db366e26e931119:bb42ae3bb74b9172e79e986b59d40085" license_type="clearkey",Star Gold Romance
-https://servertvhub.site/jiotv+/mpd.php?id=3097
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f71f5d0858e65f2286bf1eef368735d3:38ded0350222f3de77f107aee4b757d9
-#EXT-X-DRM-ID: 3098
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3098
-#EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="STAR Package" keyid="f71f5d0858e65f2286bf1eef368735d3" key="38ded0350222f3de77f107aee4b757d9" license_key="f71f5d0858e65f2286bf1eef368735d3:38ded0350222f3de77f107aee4b757d9" license_type="clearkey",Star Gold Thrills
-https://servertvhub.site/jiotv+/mpd.php?id=3098
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-#EXT-X-DRM-ID: 1119
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1119
-#EXTINF:-1 tvg-id="1119" tvg-name="Star Gold Select" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="STAR Package" keyid="null" key="null" license_key="null:null" license_type="clearkey",Star Gold Select
-https://servertvhub.site/jiotv+/mpd.php?id=1119
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1785723919~exp=1785745519~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=ea6b78139ba634ce1257c2184323abc5edb8b697b9226d04f9c6180fb2077221
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8620bd6e911d5c6e88e3bcf4b4ad1f35:7a8178e013c9af468cc4e2171b6f9857
-#EXT-X-DRM-ID: 1113
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1113
 #EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="STAR Package" keyid="8620bd6e911d5c6e88e3bcf4b4ad1f35" key="7a8178e013c9af468cc4e2171b6f9857" license_key="8620bd6e911d5c6e88e3bcf4b4ad1f35:7a8178e013c9af468cc4e2171b6f9857" license_type="clearkey",Star Gold Select HD
-https://servertvhub.site/jiotv+/mpd.php?id=1113
-
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6255706bca250079aeaf1fc4474d1b9:eab6217aac6f1feec103120e6218eb43
-#EXT-X-DRM-ID: 1132
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1132
-#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="STAR Package" keyid="c6255706bca250079aeaf1fc4474d1b9" key="eab6217aac6f1feec103120e6218eb43" license_key="c6255706bca250079aeaf1fc4474d1b9:eab6217aac6f1feec103120e6218eb43" license_type="clearkey",Star Plus HD
-https://servertvhub.site/jiotv+/mpd.php?id=1132
-
+#KODIPROP:inputstream.adaptive.license_key=cfdc17b8d45d5e199db366e26e931119:bb42ae3bb74b9172e79e986b59d40085
+#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="STAR Package" keyid="cfdc17b8d45d5e199db366e26e931119" key="bb42ae3bb74b9172e79e986b59d40085" license_key="cfdc17b8d45d5e199db366e26e931119:bb42ae3bb74b9172e79e986b59d40085" license_type="clearkey",Star Gold Romance
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Romance_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad6f73e2f7f15ed9b095576e43fe405f:38d5d669d5ee96f18dc890636753da3b
-#EXT-X-DRM-ID: 931
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=931
-#EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="STAR Package" keyid="ad6f73e2f7f15ed9b095576e43fe405f" key="38d5d669d5ee96f18dc890636753da3b" license_key="ad6f73e2f7f15ed9b095576e43fe405f:38d5d669d5ee96f18dc890636753da3b" license_type="clearkey",Star Bharat HD
-https://servertvhub.site/jiotv+/mpd.php?id=931
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7fbcce6b77855b8e9eaeebfc0a2ebc4f:1efb331b48f2993c74ec852475e7637f
-#EXT-X-DRM-ID: 1143
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1143
-#EXTINF:-1 tvg-id="1143" tvg-name="Star Utsav" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="STAR Package" keyid="7fbcce6b77855b8e9eaeebfc0a2ebc4f" key="1efb331b48f2993c74ec852475e7637f" license_key="7fbcce6b77855b8e9eaeebfc0a2ebc4f:1efb331b48f2993c74ec852475e7637f" license_type="clearkey",Star Utsav
-https://servertvhub.site/jiotv+/mpd.php?id=1143
-
+#KODIPROP:inputstream.adaptive.license_key=f71f5d0858e65f2286bf1eef368735d3:38ded0350222f3de77f107aee4b757d9
+#EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="STAR Package" keyid="f71f5d0858e65f2286bf1eef368735d3" key="38ded0350222f3de77f107aee4b757d9" license_key="f71f5d0858e65f2286bf1eef368735d3:38ded0350222f3de77f107aee4b757d9" license_type="clearkey",Star Gold Thrills
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c4f38f647fa590f9904947fd5d1afb9:80c7058468bfea90d7ba55f550792ec3
-#EXT-X-DRM-ID: 1136
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1136
-#EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" group-title="STAR Package" keyid="5c4f38f647fa590f9904947fd5d1afb9" key="80c7058468bfea90d7ba55f550792ec3" license_key="5c4f38f647fa590f9904947fd5d1afb9:80c7058468bfea90d7ba55f550792ec3" license_type="clearkey",Star Utsav Movies
-https://servertvhub.site/jiotv+/mpd.php?id=1136
-
+#EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" group-title="STAR Package keyid="5c4f38f647fa590f9904947fd5d1afb9" key="80c7058468bfea90d7ba55f550792ec3" license_key="5c4f38f647fa590f9904947fd5d1afb9:80c7058468bfea90d7ba55f550792ec3" license_type="clearkey",Star Utsav Movies
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb288091038b58b8839d202640bfe46f:99bad05f52b77e9c2460545f631140dd
-#EXT-X-DRM-ID: 336
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=336
 #EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" group-title="STAR Package" keyid="fb288091038b58b8839d202640bfe46f" key="99bad05f52b77e9c2460545f631140dd" license_key="fb288091038b58b8839d202640bfe46f:99bad05f52b77e9c2460545f631140dd" license_type="clearkey",Star Pravah HD
-https://servertvhub.site/jiotv+/mpd.php?id=336
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-#EXT-X-DRM-ID: 3099
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3099
-#EXTINF:-1 tvg-id="3099" tvg-name="Star Pravah Picture" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png" group-title="STAR Package" keyid="null" key="null" license_key="null:null" license_type="clearkey",Star Pravah Picture
-https://servertvhub.site/jiotv+/mpd.php?id=3099
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cb8027f563f5f32b27900a4a15c065f:b29afa97e86a3df924dec4ba47bd84eb
-#EXT-X-DRM-ID: 3100
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3100
 #EXTINF:-1 tvg-id="3100" tvg-name="Star Pravah Picture HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png" group-title="STAR Package" keyid="0cb8027f563f5f32b27900a4a15c065f" key="b29afa97e86a3df924dec4ba47bd84eb" license_key="0cb8027f563f5f32b27900a4a15c065f:b29afa97e86a3df924dec4ba47bd84eb" license_type="clearkey",Star Pravah Picture HD
-https://servertvhub.site/jiotv+/mpd.php?id=3100
-
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6255706bca250079aeaf1fc4474d1b9:eab6217aac6f1feec103120e6218eb43
+#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="STAR Package" keyid="c6255706bca250079aeaf1fc4474d1b9" key="eab6217aac6f1feec103120e6218eb43" license_key="c6255706bca250079aeaf1fc4474d1b9:eab6217aac6f1feec103120e6218eb43" license_type="clearkey",Star Plus HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad6f73e2f7f15ed9b095576e43fe405f:38d5d669d5ee96f18dc890636753da3b
+#EXTINF:-1 tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="STAR Package" keyid="ad6f73e2f7f15ed9b095576e43fe405f" key="38d5d669d5ee96f18dc890636753da3b" license_key="ad6f73e2f7f15ed9b095576e43fe405f:38d5d669d5ee96f18dc890636753da3b" license_type="clearkey",Star Bharat HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Bharat_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fbcce6b77855b8e9eaeebfc0a2ebc4f:1efb331b48f2993c74ec852475e7637f
+#EXTINF:-1 tvg-id="1143" tvg-name="Star Utsav" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="STAR Package" keyid="7fbcce6b77855b8e9eaeebfc0a2ebc4f" key="1efb331b48f2993c74ec852475e7637f" license_key="7fbcce6b77855b8e9eaeebfc0a2ebc4f:1efb331b48f2993c74ec852475e7637f" license_type="clearkey",Star Utsav
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Utsav_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485
-#EXT-X-DRM-ID: 1115
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1115
 #EXTINF:-1 tvg-id="1115" tvg-name="Star Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies.png" group-title="STAR Package" keyid="e705c9330a935a119021d97c7677ce62" key="dd306a57de1715b0e1256d5c1737f485" license_key="e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485" license_type="clearkey",Star Movies
-https://servertvhub.site/jiotv+/mpd.php?id=1115
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fb29e5825b4554090de8d60674e4bd1:4234d56f45d2dc89f80e6d4d30b765be
-#EXT-X-DRM-ID: 1104
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1104
-#EXTINF:-1 tvg-id="1104" tvg-name="Star Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="STAR Package" keyid="5fb29e5825b4554090de8d60674e4bd1" key="4234d56f45d2dc89f80e6d4d30b765be" license_key="5fb29e5825b4554090de8d60674e4bd1:4234d56f45d2dc89f80e6d4d30b765be" license_type="clearkey",Star Movies HD
-https://servertvhub.site/jiotv+/mpd.php?id=1104
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b7d579e28d45041ba78c3a92f0acc92:fbf33acfca489b1354955cbfb09570b5
-#EXT-X-DRM-ID: 3276
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3276
 #EXTINF:-1 tvg-id="3276" tvg-name="Star Movies Select" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select.png" group-title="STAR Package" keyid="4b7d579e28d45041ba78c3a92f0acc92" key="fbf33acfca489b1354955cbfb09570b5" license_key="4b7d579e28d45041ba78c3a92f0acc92:fbf33acfca489b1354955cbfb09570b5" license_type="clearkey",Star Movies Select
-https://servertvhub.site/jiotv+/mpd.php?id=3276
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
-#EXT-X-DRM-ID: 1110
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1110
-#EXTINF:-1 tvg-id="1110" tvg-name="Star Movies Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="STAR Package" keyid="ee96dad500c4537390df63f0f2c8de60" key="f6bee36ddb86f9c24def2a4a8df19e8e" license_key="ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e" license_type="clearkey",Star Movies Select HD
-https://servertvhub.site/jiotv+/mpd.php?id=1110
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
-#EXT-X-DRM-ID: 1142
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1142
-#EXTINF:-1 tvg-id="1142" tvg-name="Star Sports 1" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1749665579801_l_medium.jpg" group-title="STAR Package" keyid="df20894ec30954d3b28097c138f4cfda" key="ff9b6292b1cddbd11a046029cb314634" license_key="df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634" license_type="clearkey",Star Sports 1
-https://servertvhub.site/jiotv+/mpd.php?id=1142
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-#EXT-X-DRM-ID: 1106
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1106
-#EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="STAR Package" keyid="965dc2ddb1d85138ad787999a7f30ca5" key="859695076e67fe961836b564db6d689c" license_key="965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c" license_type="clearkey",Star Sports 1 HD
-https://servertvhub.site/jiotv+/mpd.php?id=1106
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
-#EXT-X-DRM-ID: 1141
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1141
-#EXTINF:-1 tvg-id="1141" tvg-name="Star Sports 2" tvg-logo="https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg" group-title="STAR Package" keyid="fc3aafe80845584199a637249fad2ffa" key="ca4474972fdb4bf8ecb164482853c692" license_key="fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692" license_type="clearkey",Star Sports 2
-https://servertvhub.site/jiotv+/mpd.php?id=1141
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
-#EXT-X-DRM-ID: 1109
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1109
-#EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="STAR Package" keyid="9457eb90129456fa8ea95e10ba4ac51e" key="e620a970cea474c491ac78ae71a4d764" license_key="9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764" license_type="clearkey",Star Sports 2 HD
-https://servertvhub.site/jiotv+/mpd.php?id=1109
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
-#EXT-X-DRM-ID: 1389
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1389
-#EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="STAR Package" keyid="e4e8647eaf0659ac85f61765a5abcdc1" key="d749c9b27505beb0e1a8b6c30ca65de6" license_key="e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6" license_type="clearkey",Star Sports 3
-https://servertvhub.site/jiotv+/mpd.php?id=1389
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e
-#EXT-X-DRM-ID: 362
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=362
-#EXTINF:-1 tvg-id="362" tvg-name="Star Sports 1 Hindi" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg" group-title="STAR Package" keyid="8ea9b607549252068e260a5f4d7dd321" key="350c0aaffedf51cc1502e9543c7c885e" license_key="8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e" license_type="clearkey",Star Sports 1 Hindi
-https://servertvhub.site/jiotv+/mpd.php?id=362
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-#EXT-X-DRM-ID: 1108
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1108
-#EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="STAR Package" keyid="400131994b445d8c8817202248760fda" key="2d56cb6f07a75b9aff165d534ae2bfc4" license_key="400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4" license_type="clearkey",Star Sports 1 Hindi HD
-https://servertvhub.site/jiotv+/mpd.php?id=1108
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
-#EXT-X-DRM-ID: 1985
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1985
-#EXTINF:-1 tvg-id="1985" tvg-name="Star Sports 2 Hindi" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg" group-title="STAR Package" keyid="a3ed8dc0e0cb5d238da80ee0a85bd2e1" key="67a96992e6406606f3480ab58d7f540c" license_key="a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c" license_type="clearkey",Star Sports 2 Hindi
-https://servertvhub.site/jiotv+/mpd.php?id=1985
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
-#EXT-X-DRM-ID: 1984
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1984
-#EXTINF:-1 tvg-id="1984" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg" group-title="STAR Package" keyid="bd1ea6a1c1fb5dcdb709434e0826bbc0" key="f57f22cba32739ce7beb1fab3f3d060b" license_key="bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b" license_type="clearkey",Star Sports 2 Hindi HD
-https://servertvhub.site/jiotv+/mpd.php?id=1984
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab947ddbb9795d38bff35597b4f73108:2671e22eb7dc174c35b6aad4b113f7b0
-#EXTINF:-1 tvg-id="1998" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" group-title="STAR Package" keyid="ab947ddbb9795d38bff35597b4f73108" key="2671e22eb7dc174c35b6aad4b113f7b0" license_key="ab947ddbb9795d38bff35597b4f73108:2671e22eb7dc174c35b6aad4b113f7b0" license_type="org.w3.clearkey",Star Sports Khel
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd
 
 
 
@@ -855,148 +726,120 @@ https://ksr.indevs.in/m3u/?stream=481626
 
 
 
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e50aa8136d3f58bc97b00d2cc9e6517e:c5be8d5c21caee8ec290d4ac6a558b22
-#EXT-X-DRM-ID: 571
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=571
-#EXTINF:-1 tvg-id="571" tvg-name="TLC Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCHindi.png" group-title="JioTv+ INFOTAINMENT" keyid="e50aa8136d3f58bc97b00d2cc9e6517e" key="c5be8d5c21caee8ec290d4ac6a558b22" license_key="e50aa8136d3f58bc97b00d2cc9e6517e:c5be8d5c21caee8ec290d4ac6a558b22" license_type="clearkey",TLC Hindi
-https://servertvhub.site/jiotv+/mpd.php?id=571
+#EXTINF:-1 tvg-id="571" tvg-name="TLC Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCHindi.png" group-title="Infotainment" keyid="e50aa8136d3f58bc97b00d2cc9e6517e" key="c5be8d5c21caee8ec290d4ac6a558b22" license_key="e50aa8136d3f58bc97b00d2cc9e6517e:c5be8d5c21caee8ec290d4ac6a558b22" license_type="clearkey",TLC Hindi
+https://jiotvmblive.cdn.jio.com/bpk-tv/TLCHindi_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54f83d4d6b445837b6fb8526a3af4420:cdbd04c39f730f0092431c3ffb15bea2
-#EXT-X-DRM-ID: 3458
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3458
-#EXTINF:-1 tvg-id="3458" tvg-name="TLC HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCHDHindi.png" group-title="JioTv+ INFOTAINMENT" keyid="54f83d4d6b445837b6fb8526a3af4420" key="cdbd04c39f730f0092431c3ffb15bea2" license_key="54f83d4d6b445837b6fb8526a3af4420:cdbd04c39f730f0092431c3ffb15bea2" license_type="clearkey",TLC HD Hindi
-https://servertvhub.site/jiotv+/mpd.php?id=3458
+#EXTINF:-1 tvg-id="3458" tvg-name="TLC HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCHDHindi.png" group-title="Infotainment" keyid="54f83d4d6b445837b6fb8526a3af4420" key="cdbd04c39f730f0092431c3ffb15bea2" license_key="54f83d4d6b445837b6fb8526a3af4420:cdbd04c39f730f0092431c3ffb15bea2" license_type="clearkey",TLC HD Hindi
+https://jiotvmblive.cdn.jio.com/bpk-tv/TLCHDHindi_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a77c9893335a5c7da2b32343d0dfff50:26d646a63b8b006dd1317ce69e2132e6
-#EXT-X-DRM-ID: 575
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=575
-#EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="JioTv+ INFOTAINMENT" keyid="a77c9893335a5c7da2b32343d0dfff50" key="26d646a63b8b006dd1317ce69e2132e6" license_key="a77c9893335a5c7da2b32343d0dfff50:26d646a63b8b006dd1317ce69e2132e6" license_type="clearkey",Discovery Hindi
-https://servertvhub.site/jiotv+/mpd.php?id=575
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment" keyid="a77c9893335a5c7da2b32343d0dfff50" key="26d646a63b8b006dd1317ce69e2132e6" license_key="a77c9893335a5c7da2b32343d0dfff50:26d646a63b8b006dd1317ce69e2132e6" license_type="clearkey",Discovery Hindi
+https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cec7a51dedca5c10b6de7502d7bf0322:808231afe4b919a46e0fed39c8d95f63
-#EXT-X-DRM-ID: 3444
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3444
-#EXTINF:-1 tvg-id="3444" tvg-name="Discovery HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="JioTv+ INFOTAINMENT" keyid="cec7a51dedca5c10b6de7502d7bf0322" key="808231afe4b919a46e0fed39c8d95f63" license_key="cec7a51dedca5c10b6de7502d7bf0322:808231afe4b919a46e0fed39c8d95f63" license_type="clearkey",Discovery HD Hindi
-https://servertvhub.site/jiotv+/mpd.php?id=3444
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=924722baa49257b6b5fa7aa3712fd38b:353925fb35909b91d7a84cd80bedeb8d
-#EXT-X-DRM-ID: 3453
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3453
-#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryScienceHin.png" group-title="JioTv+ INFOTAINMENT" keyid="924722baa49257b6b5fa7aa3712fd38b" key="353925fb35909b91d7a84cd80bedeb8d" license_key="924722baa49257b6b5fa7aa3712fd38b:353925fb35909b91d7a84cd80bedeb8d" license_type="clearkey",Discovery Science Hindi
-https://servertvhub.site/jiotv+/mpd.php?id=3453
+#EXTINF:-1 tvg-id="3444" tvg-name="Discovery HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Infotainment" keyid="cec7a51dedca5c10b6de7502d7bf0322" key="808231afe4b919a46e0fed39c8d95f63" license_key="cec7a51dedca5c10b6de7502d7bf0322:808231afe4b919a46e0fed39c8d95f63" license_type="clearkey",Discovery HD Hindi
+https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryHDHin_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=237b251f46e855dcb9d39147b591b39f:46f8006b1fc251354aadf4537c42d997
-#EXT-X-DRM-ID: 541
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=541
-#EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="JioTv+ INFOTAINMENT" keyid="237b251f46e855dcb9d39147b591b39f" key="46f8006b1fc251354aadf4537c42d997" license_key="237b251f46e855dcb9d39147b591b39f:46f8006b1fc251354aadf4537c42d997" license_type="clearkey",Discovery Turbo
-https://servertvhub.site/jiotv+/mpd.php?id=541
-#EXTINF:-1 tvg-id="2857" tvg-name="History TV18 Hindi" tvg-logo="https://i.ibb.co/JjH9NzHb/Screenshot-2026-05-17-07-30-30-458-com-google-android-googlequicksearchbox-edit.jpg" group-title="JioTv+ INFOTAINMENT",History TV18 Hindi NW18
-https://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Infotainment" keyid="237b251f46e855dcb9d39147b591b39f" key="46f8006b1fc251354aadf4537c42d997" license_key="237b251f46e855dcb9d39147b591b39f:46f8006b1fc251354aadf4537c42d997" license_type="clearkey",Discovery Turbo
+https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Turbo_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d54023f9a77158a5a192c68e8d3086d6:dddf9f57a4ab5fc9c605545f13ebca94
-#EXT-X-DRM-ID: 578
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=578
-#EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="JioTv+ INFOTAINMENT" keyid="d54023f9a77158a5a192c68e8d3086d6" key="dddf9f57a4ab5fc9c605545f13ebca94" license_key="d54023f9a77158a5a192c68e8d3086d6:dddf9f57a4ab5fc9c605545f13ebca94" license_type="clearkey",History TV18 HD Hindi
-https://servertvhub.site/jiotv+/mpd.php?id=578
+#KODIPROP:inputstream.adaptive.license_key=924722baa49257b6b5fa7aa3712fd38b:353925fb35909b91d7a84cd80bedeb8d
+#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryScienceHin.png" group-title="Infotainment" keyid="924722baa49257b6b5fa7aa3712fd38b" key="353925fb35909b91d7a84cd80bedeb8d" license_key="924722baa49257b6b5fa7aa3712fd38b:353925fb35909b91d7a84cd80bedeb8d" license_type="clearkey",Discovery Science Hindi
+https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryScienceHin_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc8bda6bd61954d69d7d07a31d1af972:0555191ba0e5e4a58f13ef9fec2adcb1
-#EXT-X-DRM-ID: 1471
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1471
-#EXTINF:-1 tvg-id="1471" tvg-name="History TV18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="JioTv+ INFOTAINMENT" keyid="fc8bda6bd61954d69d7d07a31d1af972" key="0555191ba0e5e4a58f13ef9fec2adcb1" license_key="fc8bda6bd61954d69d7d07a31d1af972:0555191ba0e5e4a58f13ef9fec2adcb1" license_type="clearkey",History TV18
-https://servertvhub.site/jiotv+/mpd.php?id=1471
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-#EXT-X-DRM-ID: 146
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=146
-#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="JioTv+ INFOTAINMENT" keyid="0172b8cd13ed59349a05aadc58ae11e0" key="e4ab7836617767a2a6e7aaae17fad2b6" license_key="0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6" license_type="clearkey",History TV18 HD
-https://servertvhub.site/jiotv+/mpd.php?id=146
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424
-#EXT-X-DRM-ID: 164
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=164
-#EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="JioTv+ INFOTAINMENT" keyid="021bd4635e8653bca6830adaca183b14" key="035ec746d6ee0d39cb7cb15963da8424" license_key="021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424" license_type="clearkey",Travelxp HD
-https://servertvhub.site/jiotv+/mpd.php?id=164
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb
-#EXT-X-DRM-ID: 562
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=562
-#EXTINF:-1 tvg-id="562" tvg-name="Travelxp HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="JioTv+ INFOTAINMENT" keyid="39aa887ebbc35db6bd10217aba5e016b" key="a1862a47f6db0af137d0c69b3cb422bb" license_key="39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb" license_type="clearkey",Travelxp HD Hindi
-https://servertvhub.site/jiotv+/mpd.php?id=562
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
-#EXT-X-DRM-ID: 821
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=821
-#EXTINF:-1 tvg-id="821" tvg-name="Sony BBC Earth HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="JioTv+ INFOTAINMENT" keyid="f45e69507f0f5aa1a6e82374efb0af25" key="f84348219837769feb5a26a7b1cd31dc" license_key="f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc" license_type="clearkey",Sony BBC Earth HD
-https://servertvhub.site/jiotv+/mpd.php?id=821
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1552919e6aab593486923334022a0adc:5365d8f2afcfbfeccfbff08db7f671fe
-#EXT-X-DRM-ID: 852
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=852
-#EXTINF:-1 tvg-id="852" tvg-name="Sony BBC Earth HD English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthEng.png" group-title="JioTv+ UNKNOWN" keyid="1552919e6aab593486923334022a0adc" key="5365d8f2afcfbfeccfbff08db7f671fe" license_key="1552919e6aab593486923334022a0adc:5365d8f2afcfbfeccfbff08db7f671fe" license_type="clearkey",Sony BBC Earth HD English
-https://servertvhub.site/jiotv+/mpd.php?id=852
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0
-#EXT-X-DRM-ID: 1332
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1332
-#EXTINF:-1 tvg-id="1332" tvg-name="Nat Geo Wild HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="JioTv+ INFOTAINMENT" keyid="45fc661aa1af51c98950c43329391d18" key="c2677c874886e78d24b3fb656c5734e0" license_key="45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0" license_type="clearkey",Nat Geo Wild HD
-https://servertvhub.site/jiotv+/mpd.php?id=1332
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0
-#EXT-X-DRM-ID: 1335
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1335
-#EXTINF:-1 tvg-id="1335" tvg-name="National Geographic HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="JioTv+ INFOTAINMENT" keyid="4b006dd7965e5777a7fa33dd636c2e5d" key="179f796bdf11b750bebd469a3aeae1d0" license_key="4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0" license_type="clearkey",National Geographic HD
-https://servertvhub.site/jiotv+/mpd.php?id=1335
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36a58e03204353d8a081ca60edce2fff:fb8bd1208c9055648d83ed963764c783
-#EXT-X-DRM-ID: 566
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=566
-#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHin.png" group-title="JioTv+ INFOTAINMENT" keyid="36a58e03204353d8a081ca60edce2fff" key="fb8bd1208c9055648d83ed963764c783" license_key="36a58e03204353d8a081ca60edce2fff:fb8bd1208c9055648d83ed963764c783" license_type="clearkey",Animal Planet Hindi
-https://servertvhub.site/jiotv+/mpd.php?id=566
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6920695b57925f3a94588dfee72e8b1c:9b5192a1a4b5b408291ba2fe104d6ac8
-#EXT-X-DRM-ID: 3451
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3451
-#EXTINF:-1 tvg-id="3451" tvg-name="Animal Planet HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" group-title="JioTv+ INFOTAINMENT" keyid="6920695b57925f3a94588dfee72e8b1c" key="9b5192a1a4b5b408291ba2fe104d6ac8" license_key="6920695b57925f3a94588dfee72e8b1c:9b5192a1a4b5b408291ba2fe104d6ac8" license_type="clearkey",Animal Planet HD Hindi
-https://servertvhub.site/jiotv+/mpd.php?id=3451
+#KODIPROP:inputstream.adaptive.license_key=9aef395dfa3c501f9bacf0ccf76ef6da:76e1fc47cd666d195437df8662a977db
+#EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHindi.png" group-title="Infotainment" keyid="9aef395dfa3c501f9bacf0ccf76ef6da" key="76e1fc47cd666d195437df8662a977db" license_key="9aef395dfa3c501f9bacf0ccf76ef6da:76e1fc47cd666d195437df8662a977db" license_type="clearkey",Investigation Discovery Hindi
+https://jiotvmblive.cdn.jio.com/bpk-tv/IDHindi_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec115aad2fcd5a76a2714c05120878d1:4baf022094dfd9dd90b44f5157f88e7a
-#EXT-X-DRM-ID: 3434
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3434
-#EXTINF:-1 tvg-id="3434" tvg-name="Investigation Discovery HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHDHindi.png" group-title="JioTv+ INFOTAINMENT" keyid="ec115aad2fcd5a76a2714c05120878d1" key="4baf022094dfd9dd90b44f5157f88e7a" license_key="ec115aad2fcd5a76a2714c05120878d1:4baf022094dfd9dd90b44f5157f88e7a" license_type="clearkey",Investigation Discovery HD Hindi
-https://servertvhub.site/jiotv+/mpd.php?id=3434
+#EXTINF:-1 tvg-id="3434" tvg-name="Investigation Discovery HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHDHindi.png" group-title="Infotainment" keyid="ec115aad2fcd5a76a2714c05120878d1" key="4baf022094dfd9dd90b44f5157f88e7a" license_key="ec115aad2fcd5a76a2714c05120878d1:4baf022094dfd9dd90b44f5157f88e7a" license_type="clearkey",Investigation Discovery HD Hindi
+https://jiotvmblive.cdn.jio.com/bpk-tv/IDHDHindi_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc8bda6bd61954d69d7d07a31d1af972:0555191ba0e5e4a58f13ef9fec2adcb1
+#EXTINF:-1 tvg-id="1471" tvg-name="History TV18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="Infotainment" keyid="fc8bda6bd61954d69d7d07a31d1af972" key="0555191ba0e5e4a58f13ef9fec2adcb1" license_key="fc8bda6bd61954d69d7d07a31d1af972:0555191ba0e5e4a58f13ef9fec2adcb1" license_type="clearkey",History TV18
+https://jiotvmblive.cdn.jio.com/bpk-tv/History_TV18_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
+#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Infotainment" keyid="0172b8cd13ed59349a05aadc58ae11e0" key="e4ab7836617767a2a6e7aaae17fad2b6" license_key="0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6" license_type="clearkey",History TV18 HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1785725707~exp=1785747307~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=105bda622b7241ad596d424d670af5fa719f71739381c3d0b5f7f717efde5afd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d54023f9a77158a5a192c68e8d3086d6:dddf9f57a4ab5fc9c605545f13ebca94
+#EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment" keyid="d54023f9a77158a5a192c68e8d3086d6" key="dddf9f57a4ab5fc9c605545f13ebca94" license_key="d54023f9a77158a5a192c68e8d3086d6:dddf9f57a4ab5fc9c605545f13ebca94" license_type="clearkey",History TV18 HD Hindi
+https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
+#EXTINF:-1 tvg-id="2857" tvg-name="History TV18 Hindi NW18" tvg-logo="""" group-title="Infotainment",History TV18 Hindi NW18
+https://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424
+#EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment" keyid="021bd4635e8653bca6830adaca183b14" key="035ec746d6ee0d39cb7cb15963da8424" license_key="021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424" license_type="clearkey",Travelxp HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1785732911~exp=1785754511~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=9563bdcb644ec400d6cb6a8ccdca363982f4876bebd85ef74a04bdb939bfed60
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb
+#EXTINF:-1 tvg-id="562" tvg-name="Travelxp HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Infotainment" keyid="39aa887ebbc35db6bd10217aba5e016b" key="a1862a47f6db0af137d0c69b3cb422bb" license_key="39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb" license_type="clearkey",Travelxp HD Hindi
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1785733509~exp=1785755109~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=f4e31b252f3e85ce7eac72892112f12dcc49ae2bf3e571ca6358b09d5517dc36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
+#EXTINF:-1 tvg-id="821" tvg-name="Sony BBC Earth HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="Infotainment" keyid="f45e69507f0f5aa1a6e82374efb0af25" key="f84348219837769feb5a26a7b1cd31dc" license_key="f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc" license_type="clearkey",Sony BBC Earth HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1785733811~exp=1785755411~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=854b918ff86648f86e908c2927a4ab591907005722999516dc5d1946d6c03724
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1552919e6aab593486923334022a0adc:5365d8f2afcfbfeccfbff08db7f671fe
+#EXTINF:-1 tvg-id="852" tvg-name="Sony BBC Earth HD English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthEng.png" group-title="Infotainment" keyid="1552919e6aab593486923334022a0adc" key="5365d8f2afcfbfeccfbff08db7f671fe" license_key="1552919e6aab593486923334022a0adc:5365d8f2afcfbfeccfbff08db7f671fe" license_type="clearkey",Sony BBC Earth HD English
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthEng_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0
+#EXTINF:-1 tvg-id="1335" tvg-name="National Geographic HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment" keyid="4b006dd7965e5777a7fa33dd636c2e5d" key="179f796bdf11b750bebd469a3aeae1d0" license_key="4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0" license_type="clearkey",National Geographic HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1785735031~exp=1785756631~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=18dcf628d6137e9382f0a5c757df0ca160a20ace265a928f28379cef0a57eedb
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0
+#EXTINF:-1 tvg-id="1332" tvg-name="Nat Geo Wild HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="Infotainment" keyid="45fc661aa1af51c98950c43329391d18" key="c2677c874886e78d24b3fb656c5734e0" license_key="45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0" license_type="clearkey",Nat Geo Wild HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1785735029~exp=1785756629~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=08aea7822ad248ae69451d36509ec5e3dade71ac61270751bd9ea50eb7bad819
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f085238887f54919b2200490bdbd752:80437df07147ec86080be4424fadf259
+#EXTINF:-1 tvg-id="2437" tvg-name="Wild Earth" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="Infotainment" keyid="1f085238887f54919b2200490bdbd752" key="80437df07147ec86080be4424fadf259" license_key="1f085238887f54919b2200490bdbd752:80437df07147ec86080be4424fadf259" license_type="clearkey",Wild Earth
+https://jiotvmblive.cdn.jio.com/bpk-tv/Wild_Earth_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36a58e03204353d8a081ca60edce2fff:fb8bd1208c9055648d83ed963764c783
+#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHin.png" group-title="Infotainment" keyid="36a58e03204353d8a081ca60edce2fff" key="fb8bd1208c9055648d83ed963764c783" license_key="36a58e03204353d8a081ca60edce2fff:fb8bd1208c9055648d83ed963764c783" license_type="clearkey",Animal Planet Hindi
+https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHin_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6920695b57925f3a94588dfee72e8b1c:9b5192a1a4b5b408291ba2fe104d6ac8
+#EXTINF:-1 tvg-id="3451" tvg-name="Animal Planet HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" group-title="Infotainment" keyid="6920695b57925f3a94588dfee72e8b1c" key="9b5192a1a4b5b408291ba2fe104d6ac8" license_key="6920695b57925f3a94588dfee72e8b1c:9b5192a1a4b5b408291ba2fe104d6ac8" license_type="clearkey",Animal Planet HD Hindi
+https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHDHin_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e66075d32ada52f1a8160bc1c7e86375:1bd48d53d027a73a9b8f69469f8be19f
-#EXT-X-DRM-ID: 561
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=561
-#EXTINF:-1 tvg-id="561" tvg-name="FOOD FOOD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="JioTv+ INFOTAINMENT" keyid="e66075d32ada52f1a8160bc1c7e86375" key="1bd48d53d027a73a9b8f69469f8be19f" license_key="e66075d32ada52f1a8160bc1c7e86375:1bd48d53d027a73a9b8f69469f8be19f" license_type="clearkey",Food Food
-https://servertvhub.site/jiotv+/mpd.php?id=561
+#EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Infotainment" keyid="e66075d32ada52f1a8160bc1c7e86375" key="1bd48d53d027a73a9b8f69469f8be19f" license_key="e66075d32ada52f1a8160bc1c7e86375:1bd48d53d027a73a9b8f69469f8be19f" license_type="clearkey",Food Food
+https://jiotvmblive.cdn.jio.com/bpk-tv/Food_Food_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45d56f9cf3be5ce28ab83983ca534af2:8323cffa74d904bdf1dfe19899d10c2d
-#EXT-X-DRM-ID: 1955
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1955
-#EXTINF:-1 tvg-id="1955" tvg-name="FOOD XP" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" group-title="JioTv+ INFOTAINMENT" keyid="45d56f9cf3be5ce28ab83983ca534af2" key="8323cffa74d904bdf1dfe19899d10c2d" license_key="45d56f9cf3be5ce28ab83983ca534af2:8323cffa74d904bdf1dfe19899d10c2d" license_type="clearkey",Foodxp
-https://servertvhub.site/jiotv+/mpd.php?id=1955
+#EXTINF:-1 tvg-id="1955" tvg-name="Foodxp" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" group-title="Infotainment" keyid="45d56f9cf3be5ce28ab83983ca534af2" key="8323cffa74d904bdf1dfe19899d10c2d" license_key="45d56f9cf3be5ce28ab83983ca534af2:8323cffa74d904bdf1dfe19899d10c2d" license_type="clearkey",Foodxp
+https://jiotvmblive.cdn.jio.com/bpk-tv/Food_XP_MOB/WDVLive/index.mpd?__hdnea__=st=1785736838~exp=1785758438~acl=/*~hmac=816bfd2deb5503250f97de2f019b671d0f9062904f658f30403093a5cc4acbcf
+
 
 
 
@@ -1104,185 +947,118 @@ https://ksr.indevs.in/m3u/?stream=480511
 https://ksr.indevs.in/m3u/?stream=480515
 
 
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39b5c756c18355d9978fe6c6311b4891:3aaa7efc64f9b81b91512d1af2c56e3c
-#EXT-X-DRM-ID: 156
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=156
-#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="JioTv+ MOVIES" keyid="39b5c756c18355d9978fe6c6311b4891" key="3aaa7efc64f9b81b91512d1af2c56e3c" license_key="39b5c756c18355d9978fe6c6311b4891:3aaa7efc64f9b81b91512d1af2c56e3c" license_type="clearkey",Star Gold HD
-https://servertvhub.site/jiotv+/mpd.php?id=156
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93d51baa27315cbfa26df35c3c3e47b6:c3b38db5542719e8e10008e9193089e6
-#EXT-X-DRM-ID: 165
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=165
-#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="JioTv+ MOVIES" keyid="93d51baa27315cbfa26df35c3c3e47b6" key="c3b38db5542719e8e10008e9193089e6" license_key="93d51baa27315cbfa26df35c3c3e47b6:c3b38db5542719e8e10008e9193089e6" license_type="clearkey",Zee Cinema HD
-https://servertvhub.site/jiotv+/mpd.php?id=165
-#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="JioTv+ MOVIES",B4U Movies
-https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09187bccb7ec59428352a31b4b321ce0:25b08b1c7a004e43ef92c239f93e6613
-#EXT-X-DRM-ID: 185
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=185
-#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPicturesHD.png" group-title="JioTv+ MOVIES" keyid="09187bccb7ec59428352a31b4b321ce0" key="25b08b1c7a004e43ef92c239f93e6613" license_key="09187bccb7ec59428352a31b4b321ce0:25b08b1c7a004e43ef92c239f93e6613" license_type="clearkey",And Pictures HD
-https://servertvhub.site/jiotv+/mpd.php?id=185
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab0674eba3f5adf96a9b65a6e82d208:476f813d8651987fc1b4074693676fd8
-#EXT-X-DRM-ID: 415
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=415
-#EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png" group-title="JioTv+ MOVIES" keyid="8ab0674eba3f5adf96a9b65a6e82d208" key="476f813d8651987fc1b4074693676fd8" license_key="8ab0674eba3f5adf96a9b65a6e82d208:476f813d8651987fc1b4074693676fd8" license_type="clearkey",Zee Anmol Cinema
-https://servertvhub.site/jiotv+/mpd.php?id=415
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d2bfb4c9aa45ac488bd92ec0e351217:c980b395f0be528c4233417ef6305274
-#EXT-X-DRM-ID: 476
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=476
-#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="JioTv+ MOVIES" keyid="9d2bfb4c9aa45ac488bd92ec0e351217" key="c980b395f0be528c4233417ef6305274" license_key="9d2bfb4c9aa45ac488bd92ec0e351217:c980b395f0be528c4233417ef6305274" license_type="clearkey",Sony Max HD
-https://servertvhub.site/jiotv+/mpd.php?id=476
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-#EXT-X-DRM-ID: 482
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=482
-#EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="JioTv+ MOVIES" keyid="null" key="null" license_key="null:null" license_type="clearkey",Colors Cineplex
-https://servertvhub.site/jiotv+/mpd.php?id=482
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18e4c354db7c506d996698caeced99d0:bba5064a2c162761bb92a15170c88b75
-#EXT-X-DRM-ID: 483
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=483
-#EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" group-title="JioTv+ MOVIES" keyid="18e4c354db7c506d996698caeced99d0" key="bba5064a2c162761bb92a15170c88b75" license_key="18e4c354db7c506d996698caeced99d0:bba5064a2c162761bb92a15170c88b75" license_type="clearkey",Sony MAX2
-https://servertvhub.site/jiotv+/mpd.php?id=483
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da42ae25046f5ba980f0fe4cc2e5e33e:ea7fd965094ff9b933e3fb654466f19f
-#EXT-X-DRM-ID: 484
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=484
-#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinema.png" group-title="JioTv+ MOVIES" keyid="da42ae25046f5ba980f0fe4cc2e5e33e" key="ea7fd965094ff9b933e3fb654466f19f" license_key="da42ae25046f5ba980f0fe4cc2e5e33e:ea7fd965094ff9b933e3fb654466f19f" license_type="clearkey",Zee Cinema
-https://servertvhub.site/jiotv+/mpd.php?id=484
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b82b04755c355ebea0ca43bff527b5c7:3eb9c71283384f46634bd0dc3d354e2c
-#EXT-X-DRM-ID: 487
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=487
-#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBollywood.png" group-title="JioTv+ MOVIES" keyid="b82b04755c355ebea0ca43bff527b5c7" key="3eb9c71283384f46634bd0dc3d354e2c" license_key="b82b04755c355ebea0ca43bff527b5c7:3eb9c71283384f46634bd0dc3d354e2c" license_type="clearkey",Zee Bollywood
-https://servertvhub.site/jiotv+/mpd.php?id=487
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80e87d88c856547a917ed83f62656cd7:c68fcd4330e5f188793df509bb5e19a6
-#EXT-X-DRM-ID: 488
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=488
-#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAction.png" group-title="JioTv+ MOVIES" keyid="80e87d88c856547a917ed83f62656cd7" key="c68fcd4330e5f188793df509bb5e19a6" license_key="80e87d88c856547a917ed83f62656cd7:c68fcd4330e5f188793df509bb5e19a6" license_type="clearkey",Zee Action
-https://servertvhub.site/jiotv+/mpd.php?id=488
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20940dfb18dd5dd48d5fd0377f47eb78:868f9d7276900b06da7511a8f09484be
-#EXT-X-DRM-ID: 809
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=809
-#EXTINF:-1 tvg-id="809" tvg-name="Maha Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="JioTv+ MOVIES" keyid="20940dfb18dd5dd48d5fd0377f47eb78" key="868f9d7276900b06da7511a8f09484be" license_key="20940dfb18dd5dd48d5fd0377f47eb78:868f9d7276900b06da7511a8f09484be" license_type="clearkey",Maha Movies
-https://servertvhub.site/jiotv+/mpd.php?id=809
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8620bd6e911d5c6e88e3bcf4b4ad1f35:7a8178e013c9af468cc4e2171b6f9857
-#EXT-X-DRM-ID: 1113
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1113
-#EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="JioTv+ MOVIES" keyid="8620bd6e911d5c6e88e3bcf4b4ad1f35" key="7a8178e013c9af468cc4e2171b6f9857" license_key="8620bd6e911d5c6e88e3bcf4b4ad1f35:7a8178e013c9af468cc4e2171b6f9857" license_type="clearkey",Star Gold Select HD
-https://servertvhub.site/jiotv+/mpd.php?id=1113
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-#EXT-X-DRM-ID: 1119
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1119
-#EXTINF:-1 tvg-id="1119" tvg-name="Star Gold Select" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="JioTv+ MOVIES" keyid="null" key="null" license_key="null:null" license_type="clearkey",Star Gold Select
-https://servertvhub.site/jiotv+/mpd.php?id=1119
-#EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="JioTv+ MOVIES",B4U Kadak
-https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_kadak/HLSPartner/index.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4480bdbec1b05f5bb6f2227d4284f045:021ff731e742f4b30a54323eadc552ab
-#EXT-X-DRM-ID: 1450
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1450
-#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="JioTv+ MOVIES" keyid="4480bdbec1b05f5bb6f2227d4284f045" key="021ff731e742f4b30a54323eadc552ab" license_key="4480bdbec1b05f5bb6f2227d4284f045:021ff731e742f4b30a54323eadc552ab" license_type="clearkey",Colors Cineplex Superhit
-https://servertvhub.site/jiotv+/mpd.php?id=1450
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a0d94be007c539e8a13b0e173f867e9:280f0d8523e9ee2d96a3eb009f8a127f
-#EXT-X-DRM-ID: 1477
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1477
-#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="JioTv+ MOVIES" keyid="7a0d94be007c539e8a13b0e173f867e9" key="280f0d8523e9ee2d96a3eb009f8a127f" license_key="7a0d94be007c539e8a13b0e173f867e9:280f0d8523e9ee2d96a3eb009f8a127f" license_type="clearkey",Colors Cineplex HD
-https://servertvhub.site/jiotv+/mpd.php?id=1477
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
-#EXT-X-DRM-ID: 1668
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1668
-#EXTINF:-1 tvg-id="1668" tvg-name="And Xplor HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png" group-title="JioTv+ MOVIES" keyid="67e52f4bdcfc525898be0446feb7f185" key="8cf5c24b168105bca24b358eb05f6df4" license_key="67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4" license_type="clearkey",And Xplor HD
-https://servertvhub.site/jiotv+/mpd.php?id=1668
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2aea84bae39054cbbc86ace8a08bac37:146d2414142edb746f82d71459274d39
-#EXT-X-DRM-ID: 1691
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1691
-#EXTINF:-1 tvg-id="1691" tvg-name="Zee Classic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeClassicSD.png" group-title="JioTv+ MOVIES" keyid="2aea84bae39054cbbc86ace8a08bac37" key="146d2414142edb746f82d71459274d39" license_key="2aea84bae39054cbbc86ace8a08bac37:146d2414142edb746f82d71459274d39" license_type="clearkey",Zee Classic
-https://servertvhub.site/jiotv+/mpd.php?id=1691
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad4dfcf1265153978f8d62e9bc6f8482:9f711591ae7d1a5e3e93f27e509a47f5
-#EXT-X-DRM-ID: 1763
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1763
-#EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="JioTv+ MOVIES" keyid="ad4dfcf1265153978f8d62e9bc6f8482" key="9f711591ae7d1a5e3e93f27e509a47f5" license_key="ad4dfcf1265153978f8d62e9bc6f8482:9f711591ae7d1a5e3e93f27e509a47f5" license_type="clearkey",Colors Cineplex Bollywood
-https://servertvhub.site/jiotv+/mpd.php?id=1763
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d495d29b3e754748389f04dab476c89:2509aac0c21ca795b28d3e3ed3ad96df
-#EXT-X-DRM-ID: 1839
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1839
-#EXTINF:-1 tvg-id="1839" tvg-name="And Pictures" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPictures.png" group-title="JioTv+ MOVIES" keyid="5d495d29b3e754748389f04dab476c89" key="2509aac0c21ca795b28d3e3ed3ad96df" license_key="5d495d29b3e754748389f04dab476c89:2509aac0c21ca795b28d3e3ed3ad96df" license_type="clearkey",And Pictures
-https://servertvhub.site/jiotv+/mpd.php?id=1839
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=521f555c43e25d75a2a532a35358cee6:8822f0168bbf58fb70f4171c92ad61bb
-#EXT-X-DRM-ID: 2761
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=2761
-#EXTINF:-1 tvg-id="2761" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png" group-title="JioTv+ MOVIES" keyid="521f555c43e25d75a2a532a35358cee6" key="8822f0168bbf58fb70f4171c92ad61bb" license_key="521f555c43e25d75a2a532a35358cee6:8822f0168bbf58fb70f4171c92ad61bb" license_type="clearkey",Zee Anmol Cinema 2
-https://servertvhub.site/jiotv+/mpd.php?id=2761
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fc0af62fa9b55dd9767e9a7ec2a6abd:9269f6161b3e544c13fcfe28cc8addde
-#EXT-X-DRM-ID: 3060
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3060
-#EXTINF:-1 tvg-id="3060" tvg-name="Hiff Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hiff_Movies.png" group-title="JioTv+ MOVIES" keyid="8fc0af62fa9b55dd9767e9a7ec2a6abd" key="9269f6161b3e544c13fcfe28cc8addde" license_key="8fc0af62fa9b55dd9767e9a7ec2a6abd:9269f6161b3e544c13fcfe28cc8addde" license_type="clearkey",Hiff Movies
-https://servertvhub.site/jiotv+/mpd.php?id=3060
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movies" keyid="39b5c756c18355d9978fe6c6311b4891" key="3aaa7efc64f9b81b91512d1af2c56e3c" license_key="39b5c756c18355d9978fe6c6311b4891:3aaa7efc64f9b81b91512d1af2c56e3c" license_type="clearkey",Star Gold HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
-#EXT-X-DRM-ID: 3096
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3096
-#EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="JioTv+ MOVIES" keyid="e6afa4754bc15dd28ab6806f417d319d" key="6a74ef2884813547109ee96098610387" license_key="e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387" license_type="clearkey",Star Gold 2 HD
-https://servertvhub.site/jiotv+/mpd.php?id=3096
+#EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Movies" keyid="e6afa4754bc15dd28ab6806f417d319d" key="6a74ef2884813547109ee96098610387" license_key="e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387" license_type="clearkey",Star Gold 2 HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1785745667~exp=1785767267~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=d3b759657611fceab9caf1ec347f0b36c64d76f453623bf9429703fbffb0c24a
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfdc17b8d45d5e199db366e26e931119:bb42ae3bb74b9172e79e986b59d40085
-#EXT-X-DRM-ID: 3097
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3097
-#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="JioTv+ MOVIES" keyid="cfdc17b8d45d5e199db366e26e931119" key="bb42ae3bb74b9172e79e986b59d40085" license_key="cfdc17b8d45d5e199db366e26e931119:bb42ae3bb74b9172e79e986b59d40085" license_type="clearkey",Star Gold Romance
-https://servertvhub.site/jiotv+/mpd.php?id=3097
+#EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="Movies" keyid="cfdc17b8d45d5e199db366e26e931119" key="bb42ae3bb74b9172e79e986b59d40085" license_key="cfdc17b8d45d5e199db366e26e931119:bb42ae3bb74b9172e79e986b59d40085" license_type="clearkey",Star Gold Romance
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Romance_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f71f5d0858e65f2286bf1eef368735d3:38ded0350222f3de77f107aee4b757d9
-#EXT-X-DRM-ID: 3098
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3098
-#EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="JioTv+ MOVIES" keyid="f71f5d0858e65f2286bf1eef368735d3" key="38ded0350222f3de77f107aee4b757d9" license_key="f71f5d0858e65f2286bf1eef368735d3:38ded0350222f3de77f107aee4b757d9" license_type="clearkey",Star Gold Thrills
-https://servertvhub.site/jiotv+/mpd.php?id=3098
+#EXTINF:-1 tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="Movies" keyid="f71f5d0858e65f2286bf1eef368735d3" key="38ded0350222f3de77f107aee4b757d9" license_key="f71f5d0858e65f2286bf1eef368735d3:38ded0350222f3de77f107aee4b757d9" license_type="clearkey",Star Gold Thrills
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8620bd6e911d5c6e88e3bcf4b4ad1f35:7a8178e013c9af468cc4e2171b6f9857
+#EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Movies" keyid="8620bd6e911d5c6e88e3bcf4b4ad1f35" key="7a8178e013c9af468cc4e2171b6f9857" license_key="8620bd6e911d5c6e88e3bcf4b4ad1f35:7a8178e013c9af468cc4e2171b6f9857" license_type="clearkey",Star Gold Select HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/list/1920x1080list403630fe2cb2485db8bddad83245f88b.jpg" group-title="Movie",Zee Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeecinema
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/list/1920x1080listb0707389e11d47edb651c329f76a0755.jpg" group-title="Movie",Zee Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeecinemahd
+
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/list/1920x1080liste1864f84ee8f422e9a726e5fe401050c.jpg" group-title="Movie",&Pictures
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-pictures
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/list/1920x1080listead02d49416241ce89c60432d7b879a6.jpg" group-title="Movie",&Pictures HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg" group-title="Movie",&xplorHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-209
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmolcinema/list/1920x1080listfa46ad9c89684d268b5c141e7987de38.jpg" group-title="Movie",Anmol Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeeanmolcinema
+#EXTINF:-1 tvg-id="0-9-bigganga" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list/1920x1080list07c314433276453ca706229ab5e5c042.jpg" group-title="Movie",Anmol Cinema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-bigganga
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d2bfb4c9aa45ac488bd92ec0e351217:c980b395f0be528c4233417ef6305274
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Movies" keyid="9d2bfb4c9aa45ac488bd92ec0e351217" key="c980b395f0be528c4233417ef6305274" license_key="9d2bfb4c9aa45ac488bd92ec0e351217:c980b395f0be528c4233417ef6305274" license_type="clearkey",Sony Max HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d1893ecbbef5872a37dfadbbc304bb9:dcbcecbf01a838c3336d732a40296efb
-#EXT-X-DRM-ID: 3418
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3418
-#EXTINF:-1 tvg-id="3418" tvg-name="Sony MAX1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX1.png" group-title="JioTv+ MOVIES" keyid="7d1893ecbbef5872a37dfadbbc304bb9" key="dcbcecbf01a838c3336d732a40296efb" license_key="7d1893ecbbef5872a37dfadbbc304bb9:dcbcecbf01a838c3336d732a40296efb" license_type="clearkey",Sony MAX1
-https://servertvhub.site/jiotv+/mpd.php?id=3418
+#EXTINF:-1 tvg-id="3418" tvg-name="Sony MAX1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX1.png" group-title="Movies" keyid="7d1893ecbbef5872a37dfadbbc304bb9" key="dcbcecbf01a838c3336d732a40296efb" license_key="7d1893ecbbef5872a37dfadbbc304bb9:dcbcecbf01a838c3336d732a40296efb" license_type="clearkey",Sony MAX1
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX1_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18e4c354db7c506d996698caeced99d0:bba5064a2c162761bb92a15170c88b75
+#EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" group-title="Movies" keyid="18e4c354db7c506d996698caeced99d0" key="bba5064a2c162761bb92a15170c88b75" license_key="18e4c354db7c506d996698caeced99d0:bba5064a2c162761bb92a15170c88b75" license_type="clearkey",Sony MAX2
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX2_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+
+#EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies",Colors Cineplex
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a0d94be007c539e8a13b0e173f867e9:280f0d8523e9ee2d96a3eb009f8a127f
+#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="Movies" keyid="7a0d94be007c539e8a13b0e173f867e9" key="280f0d8523e9ee2d96a3eb009f8a127f" license_key="7a0d94be007c539e8a13b0e173f867e9:280f0d8523e9ee2d96a3eb009f8a127f" license_type="clearkey",Colors Cineplex HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsCineplexHD_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4480bdbec1b05f5bb6f2227d4284f045:021ff731e742f4b30a54323eadc552ab
+#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="Movies" keyid="4480bdbec1b05f5bb6f2227d4284f045" key="021ff731e742f4b30a54323eadc552ab" license_key="4480bdbec1b05f5bb6f2227d4284f045:021ff731e742f4b30a54323eadc552ab" license_type="clearkey",Colors Cineplex Superhit
+https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsCineplexSuperhit_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad4dfcf1265153978f8d62e9bc6f8482:9f711591ae7d1a5e3e93f27e509a47f5
+#EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies" keyid="ad4dfcf1265153978f8d62e9bc6f8482" key="9f711591ae7d1a5e3e93f27e509a47f5" license_key="ad4dfcf1265153978f8d62e9bc6f8482:9f711591ae7d1a5e3e93f27e509a47f5" license_type="clearkey",Colors Cineplex Bollywood
+https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_MOB/WDVLive/index.mpd?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Movies",B4U Movies
+https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+#EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies",B4U Kadak
+https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_kadak/HLSPartner/index.m3u8?__hdnea__=st=1785744038~exp=1785765638~acl=/*~hmac=ddd4c064a22b2ab2dc0a42da398b48d4d0d118a3d57c9ba40aebf62f8ce39e02
+
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeclassic/list/1920x1080list993a532d3c6040d78b2e69a2862f4e28.jpg" group-title="Movie",Zee Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeeclassic
+#EXTINF:-1 tvg-id="0-9-241" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-241/list/1920x1080listc7e052932e2b437489d2f1e14445c837.jpg" group-title="Entertainment",Zee Power HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-241
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/list/1920x1080list109ad06dd3c2485a97dbaddc85d22130.jpg" group-title="Movie",Zee Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeeaction
+#EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-176/list/1920x1080list18cba842de654a3cb92b33556dfa0bc2.jpg" group-title="Movie",Zee Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-176
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg" group-title="Movie",&flix(sports) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-channel_2105335046
+
+
+
+
+
 
 
 
