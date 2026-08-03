@@ -2133,7 +2133,7 @@ https://ksr.indevs.in/m3u/?stream=477935
 https://ksr.indevs.in/m3u/?stream=477936
 
 
-#EXTM3U
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6bd071206ea552ba32a22496af8f2a5:962e83890c212fb4fe0fdab30bc2ba0d
