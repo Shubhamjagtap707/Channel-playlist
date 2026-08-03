@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ten2hd" tvg-name="Sony TEN 2 HD" tvg-logo="https://example.com/logo.png" group-title="Sports",Sony TEN 2 HD
+dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1785787643~acl=%2f*~id=3af6ef8c-9d9e-49de-bfb1-560ffa6c2886~data=hdntl~hmac=db4fe811e278d978dc2d00fdd6d435f72db8857b875038c38b5d6c2b806af9d4/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAD79HBqAAAAAKDjSlE0nRKgqKLE11nZqQPKe14%2ft3OjlKJYnMB7F6PCVp7OVdGnwtTTbuSu4NMIaD%2f9QBJ%2fM8kL&aka_media_format_type=hls
