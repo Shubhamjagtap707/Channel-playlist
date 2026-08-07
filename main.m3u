@@ -62,7 +62,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
-#EXTINF:-1 tvg-name="& Pictures HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/main/Customized_logos/andpictureshd.png" group-title="Z5 PACKAGE" keyid="de8045e9f0fb4d03845dcc4a8bd7712a" key="6807bd09bda34ada83152908192af6d6" license_key="de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6" license_type="clearkey",& Pictures HD
+#EXTINF:-1 tvg-name="AND Pictures HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/main/Customized_logos/andpictureshd.png" group-title="Z5 PACKAGE" keyid="de8045e9f0fb4d03845dcc4a8bd7712a" key="6807bd09bda34ada83152908192af6d6" license_key="de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6" license_type="clearkey",& Pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e
@@ -74,7 +74,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
-#EXTINF:-1 tvg-name="& TV HD" tvg-logo="https://i.postimg.cc/6q7c8GQj/&_Pictures_HD.png" group-title="Z5 PACKAGE" keyid="67d18634ccb04875875c60fb8d9caaba" key="99a66471c09e4b8a8dc39a0de6803f75" license_key="67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75" license_type="clearkey",& TV HD
+#EXTINF:-1 tvg-name="AND TV HD" tvg-logo="https://i.postimg.cc/6q7c8GQj/&_Pictures_HD.png" group-title="Z5 PACKAGE" keyid="67d18634ccb04875875c60fb8d9caaba" key="99a66471c09e4b8a8dc39a0de6803f75" license_key="67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75" license_type="clearkey",& TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
@@ -98,7 +98,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
-#EXTINF:-1 tvg-name="Zee Anoml Cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="Z5 PACKAGE" keyid="812411cba8bc42c79eb2b19cd78ad3f3" key="468a0b8d3d5d42d8a5c41bb875390a74" license_key="812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74" license_type="clearkey",Zee Anoml Cinema
+#EXTINF:-1 tvg-name="Zee Anmol Cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="Z5 PACKAGE" keyid="812411cba8bc42c79eb2b19cd78ad3f3" key="468a0b8d3d5d42d8a5c41bb875390a74" license_key="812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74" license_type="clearkey",Zee Anmol Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
@@ -110,7 +110,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
-#EXTINF:-1 tvg-name="Discovey SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="Z5 PACKAGE" keyid="b70a8cf9450c4d6484b4ac4d3c6761c0" key="0908be844260409cbac180bf0181da40" license_key="b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40" license_type="clearkey",Discovey SD
+#EXTINF:-1 tvg-name="Discovey SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="Z5 PACKAGE" keyid="b70a8cf9450c4d6484b4ac4d3c6761c0" key="0908be844260409cbac180bf0181da40" license_key="b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40" license_type="clearkey",Discovery SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
@@ -995,7 +995,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdne
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Movies" keyid="e6afa4754bc15dd28ab6806f417d319d" key="6a74ef2884813547109ee96098610387" license_key="e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387" license_type="clearkey",Star Gold 2 HD
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1785745667~exp=1785767267~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=d3b759657611fceab9caf1ec347f0b36c64d76f453623bf9429703fbffb0c24a
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786108521~exp=1786130121~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=fa2a427a53004ae88146716c448f50e66e158619f2e1c708f4cce819011e86ec
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfdc17b8d45d5e199db366e26e931119:bb42ae3bb74b9172e79e986b59d40085
